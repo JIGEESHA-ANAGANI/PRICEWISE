@@ -2,7 +2,6 @@
 
 This project aims to perform price comparison between e-commerce websites and sentiment analysis on user reviews using web scraping techniques, Python programming language, and Support Vector Machine (SVM) model. The project utilizes the Amazon Reviews dataset from Kaggle for training and evaluating the sentiment analysis model.
 
-<img src="https://i.ibb.co/XDNXz2y/image.png" alt="image" border="0">
 
 ## Features
 
