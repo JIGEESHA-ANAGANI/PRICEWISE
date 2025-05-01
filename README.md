@@ -77,7 +77,3 @@ We would like to express our gratitude to the following resources and communitie
 - [Kaggle](https://www.kaggle.com/) for providing the Amazon Reviews dataset, which serves as the foundation for sentiment analysis training.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) and [Requests](https://requests.readthedocs.io/) libraries for enabling efficient web scraping capabilities.
 - The Python community for developing and maintaining various packages and frameworks that make this project possible.
-
-## Contact
-
-For any inquiries or support related to the project, please reach out to us at [sudipghosh9333@gmail.com](mailto:sudipghosh9333@gmail.com). We appreciate your feedback and suggestions.
